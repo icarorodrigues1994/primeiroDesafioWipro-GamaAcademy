@@ -28,7 +28,7 @@ Em resumo,o programa se trata de buscar produtos por código, adicionar quantida
 
 **Requisitos:**
 
-A nossa loja deve conter estoque; 
+* A nossa loja deve conter estoque; 
 
 * A nossa loja deve conter estoque; 
 
@@ -42,7 +42,9 @@ A nossa loja deve conter estoque;
 
 **Dificuldades:**
 
-​	A principal dificuldade foi desenvolver o programa utilizando apenas os assuntos ministrados na aula, onde não poderia usar POO ou Listas, já que não foram abordados até o momento do curso. Fora isso, acredito que foi um desafio muito bacana e divertido de se fazer !!  <img src="https://th.bing.com/th/id/OIP.hZWYnJfb0Z5rualn5mORWQHaHa?pid=ImgDet&rs=1" alt="carinhafeliz" style="zoom:25%;" />
+​	A principal dificuldade foi desenvolver o programa utilizando apenas os assuntos ministrados na aula, onde não poderia usar POO ou Listas, já que não foram abordados até o momento do curso. Fora isso, acredito que foi um desafio muito bacana e divertido de se fazer !!  
+
+<img src="https://th.bing.com/th/id/OIP.hZWYnJfb0Z5rualn5mORWQHaHa?pid=ImgDet&rs=1" alt="carinhafeliz" style="zoom:25%;" />
 
 
 
